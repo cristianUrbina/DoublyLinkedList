@@ -1,7 +1,6 @@
 #ifndef LinkedList_H
 #define LinkedList_H
 #include "Node.h"
-#include<iostream>
 class LinkedList{
   private:
     Node * head;
